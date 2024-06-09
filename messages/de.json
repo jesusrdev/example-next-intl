@@ -1,0 +1,9 @@
+{
+    "home": {
+        "header":"Willkommen zurück",
+        "links": {
+            "contact":"Kontakt",
+            "products":"Produkte"
+        }
+    }
+}

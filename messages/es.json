@@ -1,0 +1,9 @@
+{
+    "home": {
+        "header":"Bienvenido de nuevo",
+        "links":{
+            "contact":"Contacto",
+            "products":"Productos"
+        }
+    }
+}

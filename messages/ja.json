@@ -1,0 +1,9 @@
+{
+    "home": {
+        "header":"おかえりなさい",
+        "links":{
+            "contact":"接触",
+            "products":"製品"
+        }
+    }
+}
